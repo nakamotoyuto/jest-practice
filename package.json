@@ -1,0 +1,30 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "jestでテストの練習を行うリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakamotoyuto/jest-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakamotoyuto/jest-practice/issues"
+  },
+  "homepage": "https://github.com/nakamotoyuto/jest-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-typescript": "^7.16.0",
+    "@types/jest": "^27.0.2",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
